@@ -6,7 +6,6 @@ I'm a software engineer and full-stack developer, with a passion for mobile deve
 - 🌱 I’m currently learning new technologies to stay up-to-date with the ever-evolving tech landscape.
 - 💞️ I’m looking to collaborate on exciting projects where I can contribute my skills and expertise.
 - 📫 You can reach me via email at Zerguini.ali.edb@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of gaming, and I love exploring new virtual worlds and experiencing different gaming genres.
 
 <!-- Feel free to customize the sections above to better represent yourself! -->
